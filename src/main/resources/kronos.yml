@@ -1,0 +1,18 @@
+Config-Version: 1.0
+ClearLagg:
+  clearEntities: false
+CombatLog:
+  timer-seconds: 12
+  timer-message:
+  - "&eNow, you are in combat for &b%time%s."
+  - "&dDon't disconnect, else you will die."
+  timer-message2:
+  - "&aYou are no longer in &ecombat&a."
+  - "&aFeel free to &ddisconnect&a."
+ChatControl:
+  cooldown-seconds: 3
+  cooldown-bypass: omega.cooldown.bypass
+  cooldown-message:
+  - ""
+  - "&e&l¡Debes esperar &a&l%seconds% &e&lsegundo(s) para hablar!"
+  - "&b&lCompra rango VIP en &a&l&ntienda.omegacraft.cl &b&lpara omitir este mensaje."
